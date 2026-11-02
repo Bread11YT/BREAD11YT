@@ -2,8 +2,8 @@ name: Update profile stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # каждые 6 часов
-  workflow_dispatch:         # ручной запуск кнопкой
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # manual run button
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ jobs:
       - name: Generate SVG cards
         env:
           GH_USER: Bread11YT
-          # PAT (секрет STATS_TOKEN) нужен, чтобы считать приватные вклады; без него — публичные
+          # optional PAT (secret STATS_TOKEN) to count private contributions
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p assets
