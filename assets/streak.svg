@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+<style>.t{font-family:'Segoe UI',Arial,sans-serif;font-size:18px;font-weight:700;fill:#ff8c00}.l{font-family:'Segoe UI',Arial,sans-serif;font-size:14px;fill:#c9d1d9}
+.v{font-family:'Segoe UI',Arial,sans-serif;font-size:14px;font-weight:700;fill:#ff8c00}.m{font-family:'Segoe UI',Arial,sans-serif;font-size:12px;fill:#8b949e}
+.big{font-family:'Segoe UI',Arial,sans-serif;font-size:34px;font-weight:700;fill:#ff8c00}
+.f{animation:fade .8s ease-out both}@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}</style>
+<rect x=".5" y=".5" width="799" height="159" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="20" y="32">🔥 Стрик</text>
+<text class="big" x="130" y="85" text-anchor="middle">120</text><text class="l" x="130" y="112" text-anchor="middle">Всего вкладов</text><text class="m" x="130" y="132" text-anchor="middle">за всё время</text><text class="big" x="400" y="85" text-anchor="middle">6</text><text class="l" x="400" y="112" text-anchor="middle">Текущий стрик</text><text class="m" x="400" y="132" text-anchor="middle">дней подряд</text><text class="big" x="670" y="85" text-anchor="middle">7</text><text class="l" x="670" y="112" text-anchor="middle">Лучший стрик</text><text class="m" x="670" y="132" text-anchor="middle">до 26.10.2026</text><line x1="265" y1="55" x2="265" y2="140" stroke="#30363d"/><line x1="535" y1="55" x2="535" y2="140" stroke="#30363d"/>
+</svg>

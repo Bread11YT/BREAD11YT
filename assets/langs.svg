@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="225" viewBox="0 0 390 225">
+<style>.t{font-family:'Segoe UI',Arial,sans-serif;font-size:18px;font-weight:700;fill:#ff8c00}.l{font-family:'Segoe UI',Arial,sans-serif;font-size:14px;fill:#c9d1d9}
+.v{font-family:'Segoe UI',Arial,sans-serif;font-size:14px;font-weight:700;fill:#ff8c00}.m{font-family:'Segoe UI',Arial,sans-serif;font-size:12px;fill:#8b949e}
+.big{font-family:'Segoe UI',Arial,sans-serif;font-size:34px;font-weight:700;fill:#ff8c00}
+.f{animation:fade .8s ease-out both}@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}</style>
+<rect x=".5" y=".5" width="389" height="224" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="20" y="32">Топ языков</text>
+<clipPath id="r"><rect x="20" y="48" width="350" height="10" rx="5"/></clipPath><g clip-path="url(#r)"><rect x="20.0" y="48" width="348.6" height="10" fill="#e34c26"/><rect x="368.6" y="48" width="0.9" height="10" fill="#f1e05a"/><rect x="369.5" y="48" width="0.5" height="10" fill="#3572A5"/></g><circle cx="25" cy="85" r="5" fill="#e34c26"/><text class="l" x="36" y="90">HTML</text><text class="m" x="185" y="90" text-anchor="end">99.6%</text><circle cx="205" cy="85" r="5" fill="#f1e05a"/><text class="l" x="216" y="90">JavaScript</text><text class="m" x="365" y="90" text-anchor="end">0.3%</text><circle cx="25" cy="115" r="5" fill="#3572A5"/><text class="l" x="36" y="120">Python</text><text class="m" x="185" y="120" text-anchor="end">0.1%</text>
+</svg>
