@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Bread11&fontSize=64&fontAlignY=38&desc=Game%20dev%20%7C%20Web%20%7C%20Java&descAlignY=60&animation=fadeIn" alt="header" width="100%" />
-
-<a href="https://github.com/Bread11YT">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=520&lines=Делаю+игры+на+Godot+и+Unity;Пишу+на+Java%2C+C%23+и+JavaScript;Выкладываю+проекты+на+itch.io" alt="Typing SVG" />
-</a>
+<img src="assets/banner.svg" alt="Bread11" width="800" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" alt="" />
+<img src="assets/divider.svg" alt="" width="100%" />
 
-## 💻 Tech Stack:
+<img src="assets/heading-stack.svg" alt="Tech Stack" width="800" />
 
 <div align="center">
 
@@ -29,19 +25,23 @@
 
 </div>
 
-## 📊 GitHub Stats:
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/heading-stats.svg" alt="GitHub Stats" width="800" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bread11YT&theme=dark&hide_border=false&include_all_commits=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bread11YT&theme=dark" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=Bread11YT&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Bread11YT&theme=dark" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bread11YT&theme=dark&layout=compact" alt="Top Languages" />
 
 </div>
 
-## 🐍 Contributions:
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/heading-snake.svg" alt="Contributions" width="800" />
 
 <div align="center">
 
@@ -51,14 +51,8 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bread11YT/Bread11YT/output/github-snake-dark.svg" />
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
 ![Profile views](https://komarev.com/ghpvc/?username=Bread11YT&label=Profile%20views&color=ff8c00&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" width="100%" />
-
 </div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
