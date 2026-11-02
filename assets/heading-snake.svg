@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="56" viewBox="0 0 800 56">
+  <style>
+    .t { font: bold 30px 'Segoe UI', Arial, sans-serif; fill: #ff8c00; animation: slide 1.2s ease-out both; }
+    .u { fill: #ff8c00; width: 0; animation: grow 1.4s ease-out .3s forwards; }
+    @keyframes slide { from { opacity: 0; transform: translateX(-30px) } to { opacity: 1; transform: translateX(0) } }
+    @keyframes grow { to { width: 800px } }
+  </style>
+  <text class="t" x="4" y="36">🐍 Contributions</text>
+  <rect class="u" x="0" y="48" height="3" rx="1.5"/>
+</svg>

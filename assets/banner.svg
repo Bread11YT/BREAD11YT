@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1b1f2a"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8c00"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8c00"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#36bcf7"/>
+    </linearGradient>
+    <clipPath id="c1"><rect class="r r1" x="226" y="125" width="0" height="40"/></clipPath>
+    <clipPath id="c2"><rect class="r r2" x="262" y="125" width="0" height="40"/></clipPath>
+    <clipPath id="c3"><rect class="r r3" x="274" y="125" width="0" height="40"/></clipPath>
+  </defs>
+
+  <style>
+    .title { font: bold 64px 'Segoe UI', Arial, sans-serif; fill: url(#title); animation: glow 3s ease-in-out infinite; }
+    .line { font: 20px 'Courier New', monospace; fill: #c9d1d9; }
+    .r { animation-duration: 9s; animation-iteration-count: infinite; animation-timing-function: steps(24); }
+    .r1 { animation-name: t1; }
+    .r2 { animation-name: t2; animation-delay: 3s; }
+    .r3 { animation-name: t3; animation-delay: 6s; }
+    @keyframes t1 { 0% { width: 0 } 14% { width: 350px } 30% { width: 350px } 31%, 100% { width: 0 } }
+    @keyframes t2 { 0% { width: 0 } 14% { width: 280px } 30% { width: 280px } 31%, 100% { width: 0 } }
+    @keyframes t3 { 0% { width: 0 } 14% { width: 255px } 30% { width: 255px } 31%, 100% { width: 0 } }
+    @keyframes glow { 0%, 100% { opacity: 1 } 50% { opacity: .65 } }
+    .p { animation: float 6s ease-in-out infinite; }
+    .p2 { animation-delay: -2s; animation-duration: 7s; }
+    .p3 { animation-delay: -4s; animation-duration: 8s; }
+    @keyframes float { 0%, 100% { transform: translateY(0); opacity: .15 } 50% { transform: translateY(-18px); opacity: .5 } }
+    .border { stroke-dasharray: 12 8; animation: dash 20s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -400 } }
+  </style>
+
+  <rect width="800" height="220" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="796" height="216" rx="14" fill="none" stroke="url(#border)" stroke-width="2" class="border"/>
+
+  <rect class="p" x="60" y="150" width="14" height="14" fill="#ff8c00"/>
+  <rect class="p p2" x="120" y="60" width="10" height="10" fill="#a371f7"/>
+  <rect class="p p3" x="690" y="140" width="16" height="16" fill="#36bcf7"/>
+  <rect class="p p2" x="730" y="50" width="10" height="10" fill="#ff8c00"/>
+  <rect class="p" x="640" y="170" width="8" height="8" fill="#a371f7"/>
+  <rect class="p p3" x="90" y="110" width="8" height="8" fill="#36bcf7"/>
+
+  <text class="title" x="400" y="95" text-anchor="middle">Bread11</text>
+
+  <g clip-path="url(#c1)"><text class="line" x="226" y="150">Making games in Godot &amp; Unity</text></g>
+  <g clip-path="url(#c2)"><text class="line" x="262" y="150">Java · C# · JavaScript</text></g>
+  <g clip-path="url(#c3)"><text class="line" x="274" y="150">Publishing on itch.io</text></g>
+</svg>
