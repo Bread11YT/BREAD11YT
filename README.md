@@ -50,7 +50,7 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bread11YT/Bread11YT/output/github-snake-dark.svg" />
 </picture>
 
-![Profile views](https://komarev.com/ghpvc/?username=Bread11YT&label=Profile%20views&color=ff8c00&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Bread11YT&label=Profile%20views&color=3ddc84&style=flat)
 
 </div>
 
