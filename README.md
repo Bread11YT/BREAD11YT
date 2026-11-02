@@ -27,19 +27,6 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/heading-stats.svg" alt="GitHub Stats" width="800" />
-
-<div align="center">
-
-<img src="assets/stats.svg" alt="GitHub Stats" width="390" />
-<img src="assets/langs.svg" alt="Top Languages" width="390" />
-
-<img src="assets/streak.svg" alt="GitHub Streak" width="800" />
-
-</div>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
 <img src="assets/heading-snake.svg" alt="Contributions" width="800" />
 
 <div align="center">
@@ -49,6 +36,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bread11YT/Bread11YT/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bread11YT/Bread11YT/output/github-snake-dark.svg" />
 </picture>
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/heading-stats.svg" alt="GitHub Stats" width="800" />
+
+<div align="center">
+
+<img src="assets/stats.svg" alt="GitHub Stats" width="390" />
+<img src="assets/langs.svg" alt="Top Languages" width="390" />
+
+<img src="assets/streak.svg" alt="GitHub Streak" width="800" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=Bread11YT&label=Profile%20views&color=3ddc84&style=flat)
 
