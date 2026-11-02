@@ -31,11 +31,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bread11YT&theme=dark" alt="GitHub Stats" />
+<img src="assets/stats.svg" alt="GitHub Stats" width="390" />
+<img src="assets/langs.svg" alt="Top Languages" width="390" />
 
-<img src="https://streak-stats.demolab.com/?user=Bread11YT&theme=dark" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bread11YT&theme=dark&layout=compact" alt="Top Languages" />
+<img src="assets/streak.svg" alt="GitHub Streak" width="800" />
 
 </div>
 
