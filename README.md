@@ -27,6 +27,53 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
+<img src="assets/heading-projects.svg" alt="My Projects" width="800" />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="400" valign="top" align="center">
+      <h3>🧬 Genome Arena</h3>
+      <p>Auto-battler with mutants and genetic upgrades.<br>Runs inside Telegram as a mini app.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <br><br>
+      <a href="https://t.me/genomebreadbot"><img src="https://img.shields.io/badge/PLAY%20IN%20TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Play in Telegram" /></a>
+    </td>
+    <td width="400" valign="top" align="center">
+      <h3>🏭 Infinite Factory</h3>
+      <p>Build machines, connect zones<br>and grow an endless production line.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CANVAS-3DDC84?style=for-the-badge" alt="Canvas" />
+      <br><br>
+      <a href="TODO_LINK"><img src="https://img.shields.io/badge/PLAY-3DDC84?style=for-the-badge&logo=telegram&logoColor=white" alt="Play" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="400" valign="top" align="center">
+      <h3>🗼 Spire: Towers &amp; Artifacts</h3>
+      <p>Tower defense with endless waves,<br>built for phones.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <br><br>
+      <a href="TODO_LINK"><img src="https://img.shields.io/badge/PLAY-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play" /></a>
+    </td>
+    <td width="400" valign="top" align="center">
+      <h3>⛏️ Minecraft TD Mod</h3>
+      <p>Forge 1.20.1 tower defense mod:<br>towers, waves and a core to protect.</p>
+      <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F5C542?style=for-the-badge" alt="In development" />
+      <br><br>
+      <a href="TODO_LINK"><img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
 <img src="assets/heading-snake.svg" alt="Contributions" width="800" />
 
 <div align="center">
