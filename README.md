@@ -32,11 +32,9 @@
 <div align="center">
 
 [![Genome Arena](https://img.shields.io/badge/GENOME%20ARENA-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/genomebreadbot)
-[![Infinite Factory](https://img.shields.io/badge/INFINITE%20FACTORY-F5A623?style=for-the-badge&logo=html5&logoColor=white)](TODO_LINK)
-[![Spire](https://img.shields.io/badge/SPIRE-8E44AD?style=for-the-badge&logo=itchdotio&logoColor=white)](TODO_LINK)
-[![Roguelike TD](https://img.shields.io/badge/ROGUELIKE%20TD-E34F26?style=for-the-badge&logo=html5&logoColor=white)](TODO_LINK)
-[![Minecraft TD Mod](https://img.shields.io/badge/MINECRAFT%20TD%20MOD-62B47A?style=for-the-badge&logo=openjdk&logoColor=white)](TODO_LINK)
-[![Tier List](https://img.shields.io/badge/TIER%20LIST-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](TODO_LINK)
+[![Infinite Factory](https://img.shields.io/badge/INFINITE%20FACTORY-F5A623?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Bread11YT/Zavod.tg)
+[![Tier List](https://img.shields.io/badge/TIER%20LIST-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://github.com/Bread11YT/Tier-List-app)
+[![Minecraft Mods](https://img.shields.io/badge/MINECRAFT%20MODS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Bread11YT/my-mods-for-minecraft)
 
 </div>
 
