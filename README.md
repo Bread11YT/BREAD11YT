@@ -4,41 +4,35 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%" />
-
 <img src="assets/heading-stack.svg" alt="Tech Stack" width="800" />
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GITLAB-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![itch.io](https://img.shields.io/badge/ITCH-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
-![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Godot](https://img.shields.io/badge/GODOT-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=478CBF)
-![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B8563A?style=for-the-badge&logo=html5&logoColor=D9D9D9)
+![Java](https://img.shields.io/badge/JAVA-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-2A2B28?style=for-the-badge&logo=javascript&logoColor=C9B83A)
+![GitHub](https://img.shields.io/badge/GITHUB-1F1F1F?style=for-the-badge&logo=github&logoColor=D9D9D9)
+![GitLab](https://img.shields.io/badge/GITLAB-1F1F1F?style=for-the-badge&logo=gitlab&logoColor=D9D9D9)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-BD7430?style=for-the-badge&logo=cloudflare&logoColor=D9D9D9)
+![C#](https://img.shields.io/badge/C%23-2F7A31?style=for-the-badge&logo=csharp&logoColor=D9D9D9)
+![itch.io](https://img.shields.io/badge/ITCH-BF5B5B?style=for-the-badge&logo=itchdotio&logoColor=D9D9D9)
+![Notion](https://img.shields.io/badge/NOTION-1F1F1F?style=for-the-badge&logo=notion&logoColor=D9D9D9)
+![Godot](https://img.shields.io/badge/GODOT-CFD8E0?style=for-the-badge&logo=godotengine&logoColor=3A6F96)
+![Unity](https://img.shields.io/badge/UNITY-1F1F1F?style=for-the-badge&logo=unity&logoColor=D9D9D9)
+![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3A9B68?style=for-the-badge&logo=androidstudio&logoColor=D9D9D9)
 
 </div>
-
-<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/heading-projects.svg" alt="My Projects" width="800" />
 
 <div align="center">
 
-[![Genome Arena](https://img.shields.io/badge/GENOME%20ARENA-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/genomebreadbot)
-[![Infinite Factory](https://img.shields.io/badge/INFINITE%20FACTORY-F5A623?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Bread11YT/Zavod.tg)
-[![Tier List](https://img.shields.io/badge/TIER%20LIST-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://github.com/Bread11YT/Tier-List-app)
-[![Minecraft Mods](https://img.shields.io/badge/MINECRAFT%20MODS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Bread11YT/my-mods-for-minecraft)
+[![Genome Arena](https://img.shields.io/badge/GENOME%20ARENA-2D84B0?style=for-the-badge&logo=telegram&logoColor=D9D9D9)](https://t.me/genomebreadbot)
+[![Infinite Factory](https://img.shields.io/badge/INFINITE%20FACTORY-B8842E?style=for-the-badge&logo=html5&logoColor=D9D9D9)](https://github.com/Bread11YT/Zavod.tg)
+[![Tier List](https://img.shields.io/badge/TIER%20LIST-3A9B68?style=for-the-badge&logo=androidstudio&logoColor=D9D9D9)](https://github.com/Bread11YT/Tier-List-app)
+[![Minecraft Mods](https://img.shields.io/badge/MINECRAFT%20MODS-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)](https://github.com/Bread11YT/my-mods-for-minecraft)
 
 </div>
-
-<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/heading-snake.svg" alt="Contributions" width="800" />
 
@@ -52,8 +46,6 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%" />
-
 <img src="assets/heading-stats.svg" alt="GitHub Stats" width="800" />
 
 <div align="center">
@@ -63,8 +55,6 @@
 
 <img src="assets/streak.svg" alt="GitHub Streak" width="800" />
 
-![Profile views](https://komarev.com/ghpvc/?username=Bread11YT&label=Profile%20views&color=3ddc84&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Bread11YT&label=Profile%20views&color=3a9b68&style=flat)
 
 </div>
-
-<img src="assets/divider.svg" alt="" width="100%" />
