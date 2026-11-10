@@ -8,18 +8,25 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-B8563A?style=for-the-badge&logo=html5&logoColor=D9D9D9)
-![Java](https://img.shields.io/badge/JAVA-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-3A6F96?style=for-the-badge&logo=python&logoColor=D9D9D9)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-2A2B28?style=for-the-badge&logo=javascript&logoColor=C9B83A)
+![Java](https://img.shields.io/badge/JAVA-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)
+![C#](https://img.shields.io/badge/C%23-2F7A31?style=for-the-badge&logo=csharp&logoColor=D9D9D9)
+![HTML5](https://img.shields.io/badge/HTML5-B8563A?style=for-the-badge&logo=html5&logoColor=D9D9D9)
+
+![Unity](https://img.shields.io/badge/UNITY-1F1F1F?style=for-the-badge&logo=unity&logoColor=D9D9D9)
+![Godot](https://img.shields.io/badge/GODOT-CFD8E0?style=for-the-badge&logo=godotengine&logoColor=3A6F96)
+![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3A9B68?style=for-the-badge&logo=androidstudio&logoColor=D9D9D9)
+
 ![GitHub](https://img.shields.io/badge/GITHUB-1F1F1F?style=for-the-badge&logo=github&logoColor=D9D9D9)
 ![GitLab](https://img.shields.io/badge/GITLAB-1F1F1F?style=for-the-badge&logo=gitlab&logoColor=D9D9D9)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-BD7430?style=for-the-badge&logo=cloudflare&logoColor=D9D9D9)
-![C#](https://img.shields.io/badge/C%23-2F7A31?style=for-the-badge&logo=csharp&logoColor=D9D9D9)
 ![itch.io](https://img.shields.io/badge/ITCH-BF5B5B?style=for-the-badge&logo=itchdotio&logoColor=D9D9D9)
 ![Notion](https://img.shields.io/badge/NOTION-1F1F1F?style=for-the-badge&logo=notion&logoColor=D9D9D9)
-![Godot](https://img.shields.io/badge/GODOT-CFD8E0?style=for-the-badge&logo=godotengine&logoColor=3A6F96)
-![Unity](https://img.shields.io/badge/UNITY-1F1F1F?style=for-the-badge&logo=unity&logoColor=D9D9D9)
-![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3A9B68?style=for-the-badge&logo=androidstudio&logoColor=D9D9D9)
+
+</div>
 
 </div>
 
