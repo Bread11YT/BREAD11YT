@@ -25,6 +25,8 @@
 ![itch.io](https://img.shields.io/badge/ITCH-BF5B5B?style=for-the-badge&logo=itchdotio&logoColor=D9D9D9)
 ![Notion](https://img.shields.io/badge/NOTION-1F1F1F?style=for-the-badge&logo=notion&logoColor=D9D9D9)
 ![ChatBox](https://img.shields.io/badge/CHAT%20BOX-8E44AD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Q5RDlEOSIgZD0iTTQgM2gxNmEyIDIgMCAwIDEgMiAydjExYTIgMiAwIDAgMS0yIDJIOWwtNSA0di00YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yeiIvPjwvc3ZnPg%3D%3D)
+
+![PowerShell](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/powershell.svg)
 <img src="assets/badge-ollama.svg" alt="Ollama" height="28" />
 <img src="assets/badge-freellmapi.svg" alt="FreeLLMAPI" height="28" />
 
