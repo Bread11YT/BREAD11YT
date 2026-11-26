@@ -26,7 +26,7 @@
 ![itch.io](https://img.shields.io/badge/ITCH-BF5B5B?style=for-the-badge&logo=itchdotio&logoColor=D9D9D9)
 ![Notion](https://img.shields.io/badge/NOTION-1F1F1F?style=for-the-badge&logo=notion&logoColor=D9D9D9)
 ![ChatBox](https://img.shields.io/badge/CHAT%20BOX-8E44AD?style=for-the-badge&logo=openai&logoColor=D9D9D9)
-![Ollama](https://img.shields.io/badge/OLLAMA-1F1F1F?style=for-the-badge&logo=ollama&logoColor=D9D9D9)
+![Ollama](https://img.shields.io/badge/OLLAMA-1F1F1F?style=for-the-badge)
 ![FreeLLMAPI](https://img.shields.io/badge/FREE%20LLM%20API-3A9B68?style=for-the-badge&logo=openai&logoColor=D9D9D9)
 
 </div>
