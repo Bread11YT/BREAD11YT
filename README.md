@@ -13,6 +13,7 @@
 ![Java](https://img.shields.io/badge/JAVA-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)
 ![C#](https://img.shields.io/badge/C%23-2F7A31?style=for-the-badge&logo=csharp&logoColor=D9D9D9)
 ![HTML5](https://img.shields.io/badge/HTML5-B8563A?style=for-the-badge&logo=html5&logoColor=D9D9D9)
+![Rust](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/rust.svg)
 
 ![Unity](https://img.shields.io/badge/UNITY-1F1F1F?style=for-the-badge&logo=unity&logoColor=D9D9D9)
 ![Godot](https://img.shields.io/badge/GODOT-CFD8E0?style=for-the-badge&logo=godotengine&logoColor=3A6F96)
