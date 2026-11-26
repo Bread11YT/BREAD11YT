@@ -8,8 +8,6 @@
 
 <div align="center">
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/PYTHON-3A6F96?style=for-the-badge&logo=python&logoColor=D9D9D9)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-2A2B28?style=for-the-badge&logo=javascript&logoColor=C9B83A)
 ![Java](https://img.shields.io/badge/JAVA-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)
@@ -25,11 +23,9 @@
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-BD7430?style=for-the-badge&logo=cloudflare&logoColor=D9D9D9)
 ![itch.io](https://img.shields.io/badge/ITCH-BF5B5B?style=for-the-badge&logo=itchdotio&logoColor=D9D9D9)
 ![Notion](https://img.shields.io/badge/NOTION-1F1F1F?style=for-the-badge&logo=notion&logoColor=D9D9D9)
-![ChatBox](https://img.shields.io/badge/CHAT%20BOX-8E44AD?style=for-the-badge&logo=openai&logoColor=D9D9D9)
-![Ollama](https://img.shields.io/badge/OLLAMA-1F1F1F?style=for-the-badge)
-![FreeLLMAPI](https://img.shields.io/badge/FREE%20LLM%20API-3A9B68?style=for-the-badge&logo=openai&logoColor=D9D9D9)
-
-</div>
+![ChatBox](https://img.shields.io/badge/CHAT%20BOX-8E44AD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Q5RDlEOSIgZD0iTTQgM2gxNmEyIDIgMCAwIDEgMiAydjExYTIgMiAwIDAgMS0yIDJIOWwtNSA0di00YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yeiIvPjwvc3ZnPg%3D%3D)
+![Ollama](https://img.shields.io/badge/OLLAMA-1F1F1F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Q5RDlEOSIgZD0iTTcgMmgzdjZoNFYyaDN2N2MyIDEgMyAzIDMgNXY4SDR2LThjMC0yIDEtNCAzLTV6Ii8%2BPGNpcmNsZSBjeD0iOS41IiBjeT0iMTQiIHI9IjEuMiIgZmlsbD0iIzFGMUYxRiIvPjxjaXJjbGUgY3g9IjE0LjUiIGN5PSIxNCIgcj0iMS4yIiBmaWxsPSIjMUYxRjFGIi8%2BPC9zdmc%2B)
+![FreeLLMAPI](https://img.shields.io/badge/FREE%20LLM%20API-3A9B68?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRDlEOUQ5IiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNOCA0QzUgNCA2IDkgMyAxMmMzIDMgMiA4IDUgOE0xNiA0YzMgMCAyIDUgNSA4LTMgMy0yIDgtNSA4Ii8%2BPC9zdmc%2B)
 
 </div>
 
