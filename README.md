@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-3A6F96?style=for-the-badge&logo=python&logoColor=D9D9D9)
+![Python](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/python.svg)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-2A2B28?style=for-the-badge&logo=javascript&logoColor=C9B83A)
 ![Java](https://img.shields.io/badge/JAVA-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)
 ![C#](https://img.shields.io/badge/C%23-2F7A31?style=for-the-badge&logo=csharp&logoColor=D9D9D9)
