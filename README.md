@@ -24,7 +24,7 @@
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-BD7430?style=for-the-badge&logo=cloudflare&logoColor=D9D9D9)
 ![itch.io](https://img.shields.io/badge/ITCH-BF5B5B?style=for-the-badge&logo=itchdotio&logoColor=D9D9D9)
 ![Notion](https://img.shields.io/badge/NOTION-1F1F1F?style=for-the-badge&logo=notion&logoColor=D9D9D9)
-![Chat Box](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/letters/ai/chatbox.svg)
+![Chat Box](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/chatbox.svg)
 
 ![PowerShell](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/powershell.svg)
 <img src="assets/badge-ollama.svg" alt="Ollama" height="28" />
