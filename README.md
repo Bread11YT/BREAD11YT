@@ -28,7 +28,7 @@
 
 ![PowerShell](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/powershell.svg)
 ![Ollama](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/ollama.svg)
-<img src="assets/badge-freellmapi.svg" alt="FreeLLMAPI" height="28" />
+![Free LLM API](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/freellmapi.svg)
 
 </div>
 
