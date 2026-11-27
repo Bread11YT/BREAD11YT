@@ -14,19 +14,16 @@
 ![C#](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/csharp.svg)
 ![HTML5](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/html5.svg)
 ![Rust](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/rust.svg)
-
 ![Unity](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/unity.svg)
 ![Godot](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/godot.svg)
 ![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3A9B68?style=for-the-badge&logo=androidstudio&logoColor=D9D9D9)
 ![Pygame](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/pygame.svg)
-
 ![GitHub](https://img.shields.io/badge/GITHUB-1F1F1F?style=for-the-badge&logo=github&logoColor=D9D9D9)
 ![GitLab](https://img.shields.io/badge/GITLAB-1F1F1F?style=for-the-badge&logo=gitlab&logoColor=D9D9D9)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-BD7430?style=for-the-badge&logo=cloudflare&logoColor=D9D9D9)
 ![itch.io](https://img.shields.io/badge/ITCH-BF5B5B?style=for-the-badge&logo=itchdotio&logoColor=D9D9D9)
 ![Notion](https://img.shields.io/badge/NOTION-1F1F1F?style=for-the-badge&logo=notion&logoColor=D9D9D9)
 ![Chat Box](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/chatbox.svg)
-
 ![PowerShell](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/powershell.svg)
 ![Ollama](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/ollama.svg)
 ![Free LLM API](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/freellmapi.svg)
