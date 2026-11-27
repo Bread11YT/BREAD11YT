@@ -27,7 +27,7 @@
 ![Chat Box](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/chatbox.svg)
 
 ![PowerShell](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/powershell.svg)
-<img src="assets/badge-ollama.svg" alt="Ollama" height="28" />
+![Ollama](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/ollama.svg)
 <img src="assets/badge-freellmapi.svg" alt="FreeLLMAPI" height="28" />
 
 </div>
