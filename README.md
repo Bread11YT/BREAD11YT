@@ -27,6 +27,11 @@
 ![PowerShell](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/powershell.svg)
 ![Ollama](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/ollama.svg)
 ![Free LLM API](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/freellmapi.svg)
+![Claude](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/claude.svg)
+![ChatGPT](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/chatgpt.svg)
+![Qwen](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/qwen.svg)
+![Gemini](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/gemini.svg)
+![DeepSeek](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/ai/deepseek.svg)
 
 </div>
 
