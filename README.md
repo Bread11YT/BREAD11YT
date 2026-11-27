@@ -11,8 +11,8 @@
 ![Python](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/python.svg)
 ![JavaScript](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/javascript.svg)
 ![Java](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/java.svg)
-![C#](https://img.shields.io/badge/C%23-2F7A31?style=for-the-badge&logo=csharp&logoColor=D9D9D9)
-![HTML5](https://img.shields.io/badge/HTML5-B8563A?style=for-the-badge&logo=html5&logoColor=D9D9D9)
+![C#](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/csharp.svg)
+![HTML5](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/html5.svg)
 ![Rust](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/rust.svg)
 
 ![Unity](https://img.shields.io/badge/UNITY-1F1F1F?style=for-the-badge&logo=unity&logoColor=D9D9D9)
