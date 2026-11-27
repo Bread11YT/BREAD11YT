@@ -15,9 +15,10 @@
 ![HTML5](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/html5.svg)
 ![Rust](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/rust.svg)
 
-![Unity](https://img.shields.io/badge/UNITY-1F1F1F?style=for-the-badge&logo=unity&logoColor=D9D9D9)
-![Godot](https://img.shields.io/badge/GODOT-CFD8E0?style=for-the-badge&logo=godotengine&logoColor=3A6F96)
+![Unity](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/unity.svg)
+![Godot](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/godot.svg)
 ![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3A9B68?style=for-the-badge&logo=androidstudio&logoColor=D9D9D9)
+![Pygame](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/pygame.svg)
 
 ![GitHub](https://img.shields.io/badge/GITHUB-1F1F1F?style=for-the-badge&logo=github&logoColor=D9D9D9)
 ![GitLab](https://img.shields.io/badge/GITLAB-1F1F1F?style=for-the-badge&logo=gitlab&logoColor=D9D9D9)
