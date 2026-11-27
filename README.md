@@ -34,11 +34,12 @@
 
 <div align="center">
 
-[![Genome Arena](https://img.shields.io/badge/GENOME%20ARENA-2D84B0?style=for-the-badge&logo=telegram&logoColor=D9D9D9)](https://t.me/genomebreadbot)
-[![Infinite Factory](https://img.shields.io/badge/INFINITE%20FACTORY-B8842E?style=for-the-badge&logo=html5&logoColor=D9D9D9)](https://github.com/Bread11YT/Zavod.tg)
-[![Tier List](https://img.shields.io/badge/TIER%20LIST-3A9B68?style=for-the-badge&logo=androidstudio&logoColor=D9D9D9)](https://github.com/Bread11YT/Tier-List-app)
-[![Minecraft Mods](https://img.shields.io/badge/MINECRAFT%20MODS-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)](https://github.com/Bread11YT/my-mods-for-minecraft)
+
+[![Genome Arena](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/genome-arena.svg)]((https://t.me/genomebreadbot/arena?startapp=ref_1695921199))
+[![Tier List](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/tier-list.svg)](https://github.com/Bread11YT/Tier-List-app)
+[![Minecraft Mods](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/minecraft-mods.svg)](https://github.com/Bread11YT/my-mods-for-minecraft)
 [![Badges](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/badges.svg)](https://bread11yt.github.io/badges-English/)
+
 
 </div>
 
