@@ -9,8 +9,8 @@
 <div align="center">
 
 ![Python](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/python.svg)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-2A2B28?style=for-the-badge&logo=javascript&logoColor=C9B83A)
-![Java](https://img.shields.io/badge/JAVA-B8791C?style=for-the-badge&logo=openjdk&logoColor=D9D9D9)
+![JavaScript](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/javascript.svg)
+![Java](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/java.svg)
 ![C#](https://img.shields.io/badge/C%23-2F7A31?style=for-the-badge&logo=csharp&logoColor=D9D9D9)
 ![HTML5](https://img.shields.io/badge/HTML5-B8563A?style=for-the-badge&logo=html5&logoColor=D9D9D9)
 ![Rust](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/rust.svg)
