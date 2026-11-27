@@ -8,8 +8,7 @@
 
 <div align="center">
 
-![Python](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/python.svg)
-![JavaScript](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/javascript.svg)
+![Python](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/python.svg)![JavaScript](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/javascript.svg)
 ![Java](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/java.svg)
 ![C#](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/csharp.svg)
 ![HTML5](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/html5.svg)
