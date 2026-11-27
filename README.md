@@ -40,7 +40,7 @@
 <div align="center">
 
 
-[![Genome Arena](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/genome-arena.svg)]((https://t.me/genomebreadbot/arena?startapp=ref_1695921199))
+[![Genome Arena](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/genome-arena.svg)](https://t.me/genomebreadbot/arena?startapp=ref_1695921199)
 [![Tier List](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/tier-list.svg)](https://github.com/Bread11YT/Tier-List-app)
 [![Minecraft Mods](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/minecraft-mods.svg)](https://github.com/Bread11YT/my-mods-for-minecraft)
 [![Badges](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/custom/badges.svg)](https://bread11yt.github.io/badges-English/)
