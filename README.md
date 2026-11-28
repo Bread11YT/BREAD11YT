@@ -14,6 +14,7 @@
 ![C#](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/csharp.svg)
 ![HTML5](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/html5.svg)
 ![Rust](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/languages/rust.svg)
+![Jupyter](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/tools/jupyter.svg)
 ![Unity](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/unity.svg)
 ![Godot](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/engines/godot.svg) 
 ![Android Studio](https://raw.githubusercontent.com/Bread11YT/badges/main/badges/with-icon/mobile/android-studio.svg)
